@@ -65,3 +65,4 @@ The goal of this implementation is to create a model that can accurately predict
 ### Results
 Achieved an sMAPE of .2957% and .2981% on GRU and LSTM networks
 <br> Te results can also be visualised as -
+![result visualisation](https://github.com/AnunayGupta/Smart-Load-Forecasting/blob/3e5692a687a1c4c0b8ab563b480b88d90f7c090f/Static/Screenshot%202021-07-19%20at%201.13.20%20AM.png)
